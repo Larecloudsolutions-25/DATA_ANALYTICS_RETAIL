@@ -1,2 +1,1 @@
-# DATA_ANALYTICS_RETAIL
 SmartMart360 is a growing but outdated mid-size retail chain with 50+ stores across Tier-2 cities in India (like Vizag, Vijayawada, Hyderabad, etc). It once dominated the local market.Now, you are hired as a Junior Data Analyst to rescue SmartMart360 using tools like SQL, Python, Excel, and Power BI.
